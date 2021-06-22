@@ -1,0 +1,2 @@
+# Dog-Breed-Prediction-Deep-Learning-Transfer-Learning-
+This notebook build an end-to-end multi-class image classifier using TenserFlow 2.0 and TenserFlow Hub.Identifing the breed of dog given an images of a dog.  When i am sitting at cafe and i took the photo of dog, and i want to know what breed of dog it is..The data i am using is from kaggle's dog breed identification competition: https://www.kaggle.com/c/dog-breed-identification/data
